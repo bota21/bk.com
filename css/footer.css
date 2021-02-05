@@ -60,22 +60,22 @@ footer {
 }
 
 .fb {
-  background: #272EAE url(../img/facebook.svg) 50% no-repeat;
+  background: #272EAE url(../img/facebook.png) 50% no-repeat;
   background-size: 30%;
 }
 
 .twitter {
-  background: #18A0FB url(../img/twitter.svg) 50% no-repeat;
+  background: #18A0FB url(../img/twitter.png) 50% no-repeat;
   background-size: 45%;
 }
 
 .youtube {
-  background: #D0021B url(../img/youtube.svg) 50% no-repeat;
+  background: #D0021B url(../img/youtube.png) 50% no-repeat;
   background-size: 45%;
 }
 
 .dribble {
-  background: #F53E6A url(../img/dribble.svg) 50% no-repeat;
+  background: #F53E6A url(../img/dribble.png) 50% no-repeat;
   background-size: 45%;
   margin-right: 0;
 }
