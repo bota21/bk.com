@@ -1,2 +1,2 @@
 # bk.com
-Demo
+https://bota21.github.io/bk.com/
